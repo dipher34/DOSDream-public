@@ -1,4 +1,4 @@
-# DOSDream-Echo
+# DOSDream-public
 
 A public repository for my general tools and code.
 

@@ -32,7 +32,9 @@ Sends a message to your discord servers text channel when you save your unity sc
 2. Create an "Editor" folder in your Assets, then put the code in that folder.
 3. Add your webhook link to the code.
 
-## Notes
+---
+
+# Notes
 
 - All content is experimental, and I don't need credit for any of these
 - Inform me of issues or suggestions

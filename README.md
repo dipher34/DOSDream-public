@@ -1,10 +1,10 @@
-# DOSDream-public
+## DOSDream-public
 
 A public repository for my general tools and code.
 
 ---
 
-## Perlin Noise Seed Generator
+# Perlin Noise Seed Generator (PerlinNoiseBuilder.cs)
 
 A simple tool using Perlin noise to generate a structured visual
 
@@ -19,12 +19,18 @@ A simple tool using Perlin noise to generate a structured visual
 
 <br>
 
-1. Download the provided code
-2. Import it to your Assets, create an empty gameobject and attach the script. Script probably works for recent versions, until Unity 2019 or so.
-3. Create a prefab with the object you would like to generate, and attach it. Feel free to adjust the settings.
-4. HIGHLY Recommended not to increase the depth unless you have a very high end computer, at all. Keep it at 1, to keep your frames.
+1. Create an empty gameobject and attach the code.
+2. Create a prefab with the object you would like to generate, and attach it. Feel free to adjust the settings.
+3. HIGHLY Recommended not to increase the depth unless you have a very high end computer, at all. Keep it at 1, to keep your frames.
 
 ---
+
+# Saved Scene Notifier (DiscordWebhookNotifier.cs)
+
+Sends a message to your discord servers text channel when you save your unity scene.
+1. <a href="url">[Create a Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)</a><br>
+2. Create an "Editor" folder in your Assets, then put the code in that folder.
+3. Add your webhook link to the code.
 
 ## Notes
 

@@ -1,10 +1,10 @@
-## DOSDream-public
+# DOSDream-public
 
 A public repository for my general tools and code.
 
 ---
 
-# Perlin Noise Seed Generator (PerlinNoiseBuilder.cs)
+## Perlin Noise Seed Generator (PerlinNoiseBuilder.cs)
 
 A simple tool using Perlin noise to generate a structured visual
 
@@ -25,7 +25,7 @@ A simple tool using Perlin noise to generate a structured visual
 
 ---
 
-# Saved Scene Notifier (DiscordWebhookNotifier.cs)
+## Saved Scene Notifier (DiscordWebhookNotifier.cs)
 
 Sends a message to your discord servers text channel when you save your unity scene.
 1. <a href="url">[Create a Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)</a><br>
@@ -34,7 +34,7 @@ Sends a message to your discord servers text channel when you save your unity sc
 
 ---
 
-# Notes
+## Notes
 
 - All content is experimental, and I don't need credit for any of these
 - Inform me of issues or suggestions
